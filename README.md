@@ -2,6 +2,7 @@
 Guide-to-solve-tryhackme-picklerick-machine
 <br>
 Summery:
+<br>
 1.Cybersecurity Basics: The article explains key terms such as vulnerabilities, exploits, payloads, and CVEs, which are critical in penetration testing and ethical hacking.
 <br>
 2.Connecting to TryHackMe: The article shows how to connect to a TryHackMe machine using Kali Linux and OpenVPN.
