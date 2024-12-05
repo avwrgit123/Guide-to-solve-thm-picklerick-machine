@@ -18,3 +18,4 @@ It explains using tools like Gobuster to to find hidden directories and document
 <br>
 Full guide on thm picklerick.pdf
 <br>
+https://github.com/avwrgit123/Guide-to-solve-thm-picklerick-machine/blob/main/thm%20picklerick.pdf
